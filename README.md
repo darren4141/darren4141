@@ -2,7 +2,7 @@
 - 👀 I’m interested in competitive programming, web development, science, and math
 - 🌱 I’m currently teaching myself web development and competitive programming
 - 💞️ I’m looking to collaborate on in person hackathons and making websites
-- 📫 How to reach me @darrrenliu@gmail.com
+- 📫 How to reach me: darrrenliu@gmail.com or @darrenliu4141 on instagram
 
 <!---
 darren4141/darren4141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
