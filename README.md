@@ -5,8 +5,6 @@
 - 🛠    My skills: Java, Javascript, HTML, CSS, Python, Java Applets, Turtle graphics
 - 📫   Find me
   - darrrenliu@gmail.com
-  - @darrenliu4141 on instagram
-  - darrne#6529 on discord
   - https://devpost.com/darren4141
   - https://dmoj.ca/user/Darren4141
 <!---
