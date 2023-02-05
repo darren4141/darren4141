@@ -1,4 +1,8 @@
 - 👋   Hi, I’m @darren4141, a grade 11 student passionate about programming
+
+[![Github](https://img.shields.io/github/followers/darren4141?label=Follow&style=social)](https://github.com/darren4141) 
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=darren4141.darren4141)](https://visitor-badge.laobi.icu/badge?page_id=darren4141.darren4141)
+
 - 👀   I’m interested in competitive programming, web development, science, and math
 - 🌱   I’m currently teaching myself web development and competitive programming
 - 💞️   I’m looking to collaborate on in person hackathons and making websites
