@@ -1,12 +1,13 @@
-- 👋   Hi, I’m @darren4141, a grade 11 student passionate about programming
+- 👋   Hi, I’m @darren4141, a grade 11 student passionate about programming!
 
 [![Github](https://img.shields.io/github/followers/darren4141?label=Follow&style=social)](https://github.com/darren4141) 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=darren4141.darren4141)](https://visitor-badge.laobi.icu/badge?page_id=darren4141.darren4141)
 
-- 👀   I’m interested in competitive programming, web development, science, and math
+- 🕐   Currently waiting for the next hackathon, preparing for CCC/USACO, programming FRC for team 7902, and studying my school subjects
+- 👀   I’m interested in competitive programming, web development, and STEM
 - 🌱   I’m currently teaching myself web development and competitive programming
 - 💞️   I’m looking to collaborate on in person hackathons and making websites
-- 🛠    My skills: Java, Javascript, HTML, CSS, Python, Java Applets, Turtle graphics
+- 🛠    My skills: Java, Javascript, HTML, CSS, Java FRC WPILIB, Python, Java Applets, Turtle graphics
 - 📫   Find me
   - darrrenliu@gmail.com
   - https://devpost.com/darren4141
