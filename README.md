@@ -6,8 +6,8 @@
 - 🕐   Currently waiting for the next hackathon, preparing for CCC/USACO, programming FRC for team 7902, and studying my school subjects
 - 👀   I’m interested in competitive programming, web development, and STEM
 - 🌱   I’m currently teaching myself web development and competitive programming
-- 💞️   I’m looking to collaborate on in person hackathons and making websites
-- 🛠    My skills: Java, Javascript, HTML, CSS, Java FRC WPILIB, Python, Java Applets, Turtle graphics
+- 💞️   I’m looking to collaborate on in-person hackathons and make websites
+- 🛠    My skills: Java, Javascript, HTML, CSS, Java FRC WPILIB, Python, Java Applets, Turtle graphics, Arduino programming
 - 📫   Find me
   - darrrenliu@gmail.com
   - https://devpost.com/darren4141
