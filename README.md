@@ -1,4 +1,4 @@
-- 👋   Hi, I’m @darren4141, a grade 12 student passionate about programming!
+- EE at UWaterloo, interested in hardware, IOT, AI
 
 [![Github](https://img.shields.io/github/followers/darren4141?label=Follow&style=social)](https://github.com/darren4141) 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=darren4141.darren4141)](https://visitor-badge.laobi.icu/badge?page_id=darren4141.darren4141)
