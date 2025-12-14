@@ -9,9 +9,7 @@
 - Check out the folders in my [Stars](https://github.com/darren4141?tab=stars) if you want to see some other stuff I've worked on
 
 - 📫   Find me
-  - darrrenliu@gmail.com
-  - https://devpost.com/darren4141
-  - https://dmoj.ca/user/Darren4141
+  - d58liu@uwaterloo.ca
 <!---
 darren4141/darren4141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
