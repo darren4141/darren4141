@@ -5,8 +5,6 @@
 
 - Check this out:
   - [darren4141.github.io/darrenliusite2/](https://darren4141.github.io/darrenliusite2/)
- 
-- Check out the folders in my [Stars](https://github.com/darren4141?tab=stars) if you want to see some other stuff I've worked on
 
 - 📫   Find me
   - d58liu@uwaterloo.ca
